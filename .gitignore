@@ -1,0 +1,7 @@
+﻿__pycache__/
+*.pyc
+*.sqlite3-wal
+*.sqlite3-shm
+.env
+.streamlit/secrets.toml
+_extracao_cloud/
